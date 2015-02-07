@@ -7,6 +7,6 @@ public class HelloWorld {
         String str = "Wei";
         System.out.println(str);
 
-        String str1 = "Zhou";
+        String str1 = "Zhou &&&&&";
     }
 }
