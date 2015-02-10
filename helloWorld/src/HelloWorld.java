@@ -18,5 +18,7 @@ public class HelloWorld {
         String str5 = "36474";
 
         String str6 = "hello";
+
+        String str7 = "Foobar";
     }
 }
