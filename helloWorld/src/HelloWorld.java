@@ -20,5 +20,8 @@ public class HelloWorld {
         String str6 = "hello";
 
         String str7 = "Foobar";
+
+        String str8 = "hhshhs";
+
     }
 }
