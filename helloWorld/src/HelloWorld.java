@@ -16,5 +16,7 @@ public class HelloWorld {
         String str4 = "new test";
 
         String str5 = "36474";
+
+        String str6 = "hello";
     }
 }
