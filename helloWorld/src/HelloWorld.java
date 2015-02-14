@@ -15,9 +15,11 @@ public class HelloWorld {
 //
 //        String str4 = "new test";
 
-        String str5 = "123455";
+//        String str5 = "123455";
         int value = 123455443;
         long l = (long) 23.2;
+
+        int str5 = 123;
 
 
 //        String str6 = "hello";
@@ -31,10 +33,11 @@ public class HelloWorld {
 
     }
 
-    public void test(String s) {
+    public void test(int s) {
         try {
-            int a = Integer.parseInt(s);
-            System.out.println(a);
+//            int a = Integer.parseInt(s);
+//            System.out.println(a);
+            System.out.println(s);
         } catch(Exception e) {
             System.out.println(e.getMessage());
         }
