@@ -11,7 +11,7 @@ public class HelloWorld {
 //
 //        String str2 = "Second branch";
 //
-        String str3 = "*******";
+        String str3 = "%%%%%%%";
 //
 //        String str4 = "new test";
 
