@@ -7,21 +7,21 @@ public class HelloWorld {
         String str = "Wei";
         System.out.println(str);
 
-        String str1 = "Zhou &&&&&";
+//        String str1 = "Zhou &&&&&";
+//
+//        String str2 = "Second branch";
+//
+//        String str3 = "*******";
+//
+//        String str4 = "new test";
 
-        String str2 = "Second branch";
+        String str5 = "wertt";
 
-        String str3 = "*******";
-
-        String str4 = "new test";
-
-        String str5 = "36474";
-
-        String str6 = "hello";
-
-        String str7 = "Foobar";
-
-        String str8 = "hhshhs";
+//        String str6 = "hello";
+//
+//        String str7 = "Foobar";
+//
+//        String str8 = "hhshhs";
 
     }
 }
