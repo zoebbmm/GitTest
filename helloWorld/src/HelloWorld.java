@@ -15,7 +15,7 @@ public class HelloWorld {
 //
 //        String str4 = "new test";
 
-        String str5 = "wertt";
+        String str2 = "wertt";
 
 //        String str6 = "hello";
 //
