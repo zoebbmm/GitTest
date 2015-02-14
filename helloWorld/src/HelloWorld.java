@@ -13,7 +13,7 @@ public class HelloWorld {
 //
         String str3 = "%%%%%%%";
 //
-//        String str4 = "new test";
+        String str4 = "new test";
 
         String str5 = "123455";
         int value = 123455443;
