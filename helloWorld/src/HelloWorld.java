@@ -16,7 +16,7 @@ public class HelloWorld {
 //        String str4 = "new test";
 
         String str5 = "36474";
-
+        int value = 123455443;
 
 
 //        String str6 = "hello";
