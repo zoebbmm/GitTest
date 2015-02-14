@@ -17,6 +17,7 @@ public class HelloWorld {
 
         String str5 = "36474";
         int value = 123455443;
+        long l = (long) 23.2;
 
 
 //        String str6 = "hello";
