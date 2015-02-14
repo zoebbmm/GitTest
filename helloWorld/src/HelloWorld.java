@@ -26,20 +26,20 @@ public class HelloWorld {
 //
 //        String str8 = "hhshhs";
 
-        HelloWorld hw = new HelloWorld();
-        hw.test(value);
+//        HelloWorld hw = new HelloWorld();
+//        hw.test(value);
 
     }
 
-    public void test(int s) {
-        try {
-//            int a = Integer.parseInt(s);
-//            System.out.println(a);
-            System.out.println(s);
-        } catch(Exception e) {
-            System.out.println(e.getMessage());
-        }
-    }
+//    public void test(int s) {
+//        try {
+////            int a = Integer.parseInt(s);
+////            System.out.println(a);
+//            System.out.println(s);
+//        } catch(Exception e) {
+//            System.out.println(e.getMessage());
+//        }
+//    }
 
 
 }
