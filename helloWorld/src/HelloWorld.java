@@ -27,15 +27,15 @@ public class HelloWorld {
 //        String str8 = "hhshhs";
 
         HelloWorld hw = new HelloWorld();
-        hw.test(value);
+        hw.test(str5);
 
     }
 
-    public void test(int s) {
+    public void test(String s) {
         try {
-//            int a = Integer.parseInt(s);
-//            System.out.println(a);
-            System.out.println(s);
+            int a = Integer.parseInt(s);
+            System.out.println(a);
+//            System.out.println(s);
         } catch(Exception e) {
             System.out.println(e.getMessage());
         }
