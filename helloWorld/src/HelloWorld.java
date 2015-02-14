@@ -15,11 +15,9 @@ public class HelloWorld {
 //
 //        String str4 = "new test";
 
-//        String str5 = "123455";
+        String str5 = "123455";
         int value = 123455443;
         long l = (long) 23.2;
-
-        int str5 = 123;
 
 
 //        String str6 = "hello";
@@ -29,7 +27,8 @@ public class HelloWorld {
 //        String str8 = "hhshhs";
 
         HelloWorld hw = new HelloWorld();
-        hw.test(str5);
+        hw.test(value);
+        hw.newTest(str5);
 
     }
 
@@ -41,5 +40,9 @@ public class HelloWorld {
         } catch(Exception e) {
             System.out.println(e.getMessage());
         }
+    }
+
+    public void newTest(String s) {
+        System.out.println(s);
     }
 }
