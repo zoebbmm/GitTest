@@ -28,7 +28,6 @@ public class HelloWorld {
 
         HelloWorld hw = new HelloWorld();
         hw.test(value);
-        hw.newTest(str5);
 
     }
 
@@ -42,7 +41,5 @@ public class HelloWorld {
         }
     }
 
-    public void newTest(String s) {
-        System.out.println(s);
-    }
+
 }
