@@ -15,7 +15,9 @@ public class HelloWorld {
 //
 //        String str4 = "new test";
 
-        String str2 = "wertt";
+        String str5 = "36474";
+
+
 
 //        String str6 = "hello";
 //
@@ -23,5 +25,17 @@ public class HelloWorld {
 //
 //        String str8 = "hhshhs";
 
+        HelloWorld hw = new HelloWorld();
+        hw.test(str5);
+
+    }
+
+    public void test(String s) {
+        try {
+            int a = Integer.parseInt(s);
+            System.out.println(a);
+        } catch(Exception e) {
+            System.out.println(e.getMessage());
+        }
     }
 }
