@@ -15,7 +15,7 @@ public class HelloWorld {
 //
         String str4 = "new test";
 
-        String str5 = "37777777";
+        String str5 = "sjdhdjdjdjsdsj";
         int value = 123455443;
         long l = (long) 23.2;
 
