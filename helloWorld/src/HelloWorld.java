@@ -16,7 +16,7 @@ public class HelloWorld {
 //
         String str4 = "new test";
 
-        String str5 = "fox awesome blah blah....";
+        String str5 = "fox awesome blah hhhhh";
         int value = 123455443;
         long l = (long) 23.2;
 
@@ -36,7 +36,6 @@ public class HelloWorld {
         try {
             int a = Integer.parseInt(s);
             System.out.println(a);
-//            System.out.println(s);
         } catch(Exception e) {
             System.out.println(e.getMessage());
         }
